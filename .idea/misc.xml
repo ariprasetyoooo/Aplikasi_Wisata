@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1921875" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout-w1240dp/activity_okura.xml" value="0.155859375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout-w936dp/activity_login.xml" value="0.19453125" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_about.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_air_terjun.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_alam_mayang.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_danau.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_hutan_raya.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_login.xml" value="0.2453125" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_menu_utama.xml" value="0.4" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_okura.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_okura2.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_riau_fantasi.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_wisata_alam.xml" value="0.259375" />
+        <entry key="..\:/TUGAS/SEMESTER 4/PAM/AplikasiWisata/app/src/main/res/layout/activity_wisata_kuliner.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
